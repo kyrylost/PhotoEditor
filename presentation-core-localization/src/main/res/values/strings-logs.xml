@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logs_used_algorithm">Used Algorithm</string>
+    <string name="logs_used_async_method">Used Async Method</string>
+    <string name="logs_compression_time">Compression Time</string>
+    <string name="logs_original_image_size">Original Image Size (MB)</string>
+    <string name="logs_compressed_image_size">Compressed Image Size (MB)</string>
+
+    <string name="logs_chart_compression_time">Compression time chart</string>
+    <string name="logs_chart_mse">MSE chart</string>
+    <string name="logs_chart_cr">CR chart</string>
+</resources>

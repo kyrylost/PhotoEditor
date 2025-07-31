@@ -1,0 +1,5 @@
+<resources>
+    <string name="compressor_compression">Рівень стиснення</string>
+    <string name="compressor_algorithm">Алгоритм</string>
+    <string name="compressor_async_technique">Асинхронна техніка</string>
+</resources>

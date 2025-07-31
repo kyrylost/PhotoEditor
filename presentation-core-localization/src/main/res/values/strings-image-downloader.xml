@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloads_dir_name" translatable="false">downloads</string>
+    <string name="image_config_prefix" translatable="false">_config</string>
+
+    <string name="image_downloader_downloading">Downloading…</string>
+    <string name="image_downloader_complete">Complete!</string>
+    <string name="image_downloader_fail">Failed</string>
+    <string name="image_downloader_title">Image Download</string>
+
+</resources>

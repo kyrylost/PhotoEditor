@@ -1,0 +1,5 @@
+<resources>
+    <string name="compressor_compression">Compression</string>
+    <string name="compressor_algorithm">Algorithm</string>
+    <string name="compressor_async_technique">Asynchronous technique</string>
+</resources>

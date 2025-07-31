@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logs_used_algorithm">Використаний алгоритм</string>
+    <string name="logs_used_async_method">Використаний асинхронний метод</string>
+    <string name="logs_compression_time">Час стиснення</string>
+    <string name="logs_original_image_size">Розмір оригінального зображення (МБ)</string>
+    <string name="logs_compressed_image_size">Розмір стисненого зображення (МБ)</string>
+
+    <string name="logs_chart_compression_time">Графік часу стиснення</string>
+    <string name="logs_chart_mse">Графік MSE</string>
+    <string name="logs_chart_cr">Графік CR</string>
+</resources>

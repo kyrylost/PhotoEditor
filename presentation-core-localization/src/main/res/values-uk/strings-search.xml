@@ -1,0 +1,6 @@
+<resources>
+    <string name="search_recently_added">Нещодавно додані</string>
+    <string name="search_relevant">Актуальні</string>
+    <string name="search_category">Категорія</string>
+    <string name="search_see_more">Дивитися більше</string>
+</resources>

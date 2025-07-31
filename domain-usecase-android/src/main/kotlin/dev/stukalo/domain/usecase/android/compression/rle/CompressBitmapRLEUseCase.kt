@@ -1,0 +1,10 @@
+package dev.stukalo.domain.usecase.android.compression.rle
+
+import android.graphics.Bitmap
+import dev.stukalo.domain.usecase.android.compression.base.BaseRleCompressorUseCase
+
+interface CompressBitmapRLEUseCase: BaseRleCompressorUseCase {
+
+    override suspend operator fun invoke(bitmap: Bitmap): ByteArray
+
+}
